@@ -29,3 +29,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
 </p>
+
+
+### 🌟 Contribution Graph
+
+[![CFinTech's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CFinTech&area=true&hide_border=true&theme=github&custom_title=Kaiwen's%20Contribution%20Graph)](https://github.com/CFinTech/github-readme-activity-graph)
+
+---
